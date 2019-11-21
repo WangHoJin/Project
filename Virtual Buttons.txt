@@ -1,0 +1,12 @@
+UnityEngine의 SceneManagement를 사용하여 화면 전환 기능 구현
+
+OnButtonPressed함수를 통해 가상버튼 클릭시 이벤트 구현
+
+	1.시작 버튼
+	- 애니메이션을 시작
+
+	2. 다음/이전 버튼 
+	- LoadScene()함수를 사용하여 다음/이전 화면 전환
+
+	3. 레시피 버튼
+	- text형식의 레시피 on/off 기능 구현 
